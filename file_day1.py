@@ -1,4 +1,5 @@
 '''
+File handling is the important Programming Toolkit for programmers.
 File
 Is a medium to store the data / information in a suitable format
 Each file will be stored on hard drive with specific extension.
